@@ -1,10 +1,10 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm Raja Tangudu
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Raja%20Tangudu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20ASP.NET%20Core%20Developer%20%7C%20Backend%20Engineer&descAlignY=60&descSize=18"/>
+</p>
 
 <div align="center">
 
-### Software Engineer • ASP.NET Core Developer • Backend Engineer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+in+Progress;ASP.NET+Core+Developer;Backend+Engineer;Machine+Learning+Enthusiast;Building+Scalable+Applications;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineer+in+Progress;ASP.NET+Core+Developer;Backend+Engineer;Machine+Learning+Enthusiast;Building+Scalable+Applications;Always+Learning+Something+New" />
 
 <br><br>
 
@@ -22,22 +22,43 @@
 
 # 👨‍💻 About Me
 
-```yaml
-Name: Raja Tangudu
-Location: Bhubaneswar, Odisha, India
-Education: B.Tech Computer Science (2022-2026)
-CGPA: 8.52
-Current Role: .NET Developer Intern @ Centroxy Solutions
-Career Goal: Software Engineer / Backend Developer
-Open To:
-  - Full-Time Opportunities
-  - Internships
-  - Open Source Contributions
-```
+<table>
+<tr>
+<td width="50%">
 
-I'm a Computer Science student passionate about building scalable software solutions and solving real-world problems through technology.
+🎓 **B.Tech Computer Science** (2022–2026)
 
-Currently working as a **.NET Developer Intern**, building enterprise-grade applications using **C#, ASP.NET Core, SQL Server, Entity Framework, REST APIs, JWT Authentication, LINQ, ADO.NET, and MVC**.
+📍 **Bhubaneswar, Odisha, India**
+
+💼 **.NET Developer Intern** @ Centroxy Solutions
+
+📊 **CGPA:** 8.52
+
+🎯 **Goal:** Software Engineer / Backend Developer
+
+</td>
+
+<td width="50%">
+
+🚀 ASP.NET Core Developer
+
+⚡ Backend Engineering
+
+🔐 API Development
+
+🏗 Clean Architecture
+
+🤖 Machine Learning
+
+🌱 Currently Learning Angular
+
+</td>
+</tr>
+</table>
+
+I am a Computer Science student and .NET Developer Intern with hands-on experience in building enterprise-grade applications using **C#, ASP.NET Core, SQL Server, Entity Framework, REST APIs, JWT Authentication, LINQ, ADO.NET, and MVC**.
+
+My primary interests include **Backend Development, Software Architecture, Distributed Systems, API Engineering, Machine Learning, and Cloud Technologies**.
 
 ### Areas of Interest
 
