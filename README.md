@@ -82,39 +82,227 @@ My interests span across:
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
 ## 🏆 Professional Skills
 
+### Backend Development
+
+✔ ASP.NET Core Web API (RESTful Services)
+
+✔ ASP.NET MVC Architecture
+
+✔ Minimal APIs
+
+✔ Entity Framework Core (EF Core)
+
+✔ ADO.NET
+
+✔ LINQ
+
+✔ Dependency Injection (DI)
+
+✔ JWT Authentication & Authorization
+
+✔ Middleware & Request Pipeline
+
+✔ CRUD Operations & Business Logic Implementation
+
+---
+
+### Software Engineering Principles
+
+✔ SOLID Principles
+
+✔ Clean Architecture Fundamentals
+
+✔ Onion Architecture Pattern
+
+✔ Layered Architecture
+
+✔ Object-Oriented Programming (OOP)
+
+✔ Design Patterns (Repository Pattern, Factory Pattern)
+
+✔ Code Refactoring & Maintainability
+
+---
+
+### Database Management
+
+✔ SQL Server
+
+✔ Database Design & Normalization
+
+✔ Query Optimization
+
+✔ Stored Procedures
+
+✔ Relational Database Management Systems (RDBMS)
+
+---
+
+### API Development & Integration
+
 ✔ REST API Development
 
-✔ ASP.NET Core Web Applications
+✔ API Versioning
 
-✔ SQL Server Database Design
+✔ Swagger / OpenAPI Documentation
 
-✔ Authentication & Authorization (JWT)
+✔ Third-Party API Integration
 
-✔ MVC Architecture
+✔ HTTP Status Codes & API Standards
 
-✔ Entity Framework
+✔ Request/Response Handling
 
-✔ LINQ & ADO.NET
+---
 
-✔ Machine Learning
+### Networking & Protocols
 
-✔ Problem Solving
+✔ HTTP / HTTPS
+
+✔ REST Protocols
+
+✔ SMTP (Email Communication)
+
+✔ TCP/IP Fundamentals
+
+✔ Client-Server Architecture
+
+✔ Web Security Fundamentals
+
+---
+
+### Security
+
+✔ JWT Authentication
+
+✔ Role-Based Authorization
+
+✔ Password Hashing
+
+✔ Secure API Development
+
+✔ Input Validation & Data Protection
+
+✔ Basic Cryptography Concepts
+
+---
+
+### Cryptography & Security Algorithms
+
+✔ SHA-256 Hashing
+
+✔ AES Encryption (Advanced Encryption Standard)
+
+✔ RSA Encryption Basics
+
+✔ MD5 (Legacy Hashing Knowledge)
+
+✔ Secure Password Storage Concepts
+
+---
+
+### Programming Languages
+
+✔ C#
+
+✔ Java
+
+✔ Python
+
+✔ SQL
+
+---
+
+### Frontend Technologies
+
+✔ Angular
+
+✔ HTML5
+
+✔ CSS3
+
+✔ Responsive UI Development
+
+---
+
+### Machine Learning & Data Analysis
+
+✔ Scikit-Learn
+
+✔ Pandas
+
+✔ Data Preprocessing
+
+✔ Classification Models
+
+✔ Feature Engineering
+
+✔ Model Evaluation
+
+---
+
+### Version Control & Collaboration
+
+✔ Git
+
+✔ GitHub
+
+✔ GitLab
+
+✔ SourceTree
+
+✔ Branching & Merging Strategies
+
+✔ Agile Development Practices
+
+---
+
+### Development Tools
+
+✔ Visual Studio
+
+✔ VS Code
+
+✔ Eclipse IDE
+
+✔ Postman
+
+✔ Swagger
+
+✔ SQL Server Management Studio (SSMS)
+
+---
+
+### Problem Solving
 
 ✔ Data Structures & Algorithms
 
-✔ Debugging & Optimization
+✔ Time & Space Complexity Analysis
 
-✔ Version Control (Git/GitHub)
+✔ Debugging & Troubleshooting
 
+✔ Logical Reasoning
+
+✔ Software Optimization
 ---
 
 ## 🌟 Featured Projects
@@ -188,20 +376,6 @@ Currently focused on:
 🏆 Maintained CGPA of 8.52 in Computer Science Engineering
 
 🏆 Strong foundation in Software Engineering principles
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TANGUDU12RAJA12&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANGUDU12RAJA12&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TANGUDU12RAJA12&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
