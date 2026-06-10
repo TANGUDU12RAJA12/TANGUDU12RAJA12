@@ -20,7 +20,7 @@
 
 ---
 
-# 💫 Who Am I?
+# 👨‍💻 About Me
 
 ```yaml
 Name: Raja Tangudu
@@ -107,63 +107,20 @@ Currently working as a **.NET Developer Intern**, building enterprise-grade appl
 
 # 🏆 Professional Skills
 
-### Backend Engineering
+## 🛠 Core Competencies
 
-* ASP.NET Core Web API
-* ASP.NET MVC
-* Minimal APIs
-* Entity Framework Core
-* ADO.NET
-* LINQ
-* Dependency Injection
-* JWT Authentication
-* Middleware Pipeline
-* CRUD Operations
+💻 ASP.NET Core • Web APIs • MVC • Minimal APIs • Entity Framework • ADO.NET • LINQ
 
-### Software Engineering
+🏗 Clean Architecture • Onion Architecture • SOLID Principles • OOP • Design Patterns
 
-* SOLID Principles
-* Clean Architecture
-* Onion Architecture
-* Layered Architecture
-* OOP
-* Design Patterns
-* Code Refactoring
+🔗 REST APIs • API Versioning • Swagger/OpenAPI • Third-Party Integrations
 
-### API Development
+🔐 JWT Authentication • Role-Based Authorization • HTTP/HTTPS • SMTP • SHA-256 • AES • RSA
 
-* REST APIs
-* API Versioning
-* Swagger / OpenAPI
-* Third-Party Integrations
-* Request & Response Handling
+🗄 SQL Server • Stored Procedures • Query Optimization • Database Design
 
-### Networking & Security
-
-* HTTP / HTTPS
-* SMTP
-* TCP/IP Fundamentals
-* JWT Authentication
-* Role-Based Authorization
-* SHA-256
-* AES Encryption
-* RSA Basics
-
-### Database Engineering
-
-* SQL Server
-* Query Optimization
-* Database Normalization
-* Stored Procedures
-* RDBMS Concepts
-
-### Machine Learning
-
-* Scikit-Learn
-* Pandas
-* Feature Engineering
-* Classification Models
-* Data Analysis
+🤖 Machine Learning • Scikit-Learn • Pandas • Data Analysis • Feature Engineering
+```
 
 ---
 
