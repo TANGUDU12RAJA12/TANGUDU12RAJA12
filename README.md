@@ -141,7 +141,6 @@ My primary interests include **Backend Development, Software Architecture, Distr
 🗄 SQL Server • Stored Procedures • Query Optimization • Database Design
 
 🤖 Machine Learning • Scikit-Learn • Pandas • Data Analysis • Feature Engineering
-```
 
 # 🌟 Featured Projects
 
