@@ -143,8 +143,6 @@ My primary interests include **Backend Development, Software Architecture, Distr
 🤖 Machine Learning • Scikit-Learn • Pandas • Data Analysis • Feature Engineering
 ```
 
----
-
 # 🌟 Featured Projects
 
 ## 🔐 Secure Login & Resource Management System
